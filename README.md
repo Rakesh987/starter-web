@@ -1,4 +1,8 @@
- this is change in master branch
+<<<<<<< HEAD
+ this is change
+=======
+ Iam making the file to conflict
+>>>>>>> rakeshkumar
  i
  this is a other file swhih iknaslnalnmm
  ndnasdsdm;sd
