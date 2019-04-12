@@ -1,4 +1,5 @@
 # robotstxt.org/
 Iam a robot not an human geing
+iam super robot
 
 User-agent: *
