@@ -4,13 +4,17 @@ Iam a human being not an animal
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+
+
+    <Dollargenral> -- <admin> -- <twitter>
 
 # THANKS
 
     <name>
 
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY 
+
+devops engineer
 
     HTML5, CSS3
     jQuery, Modernizr
